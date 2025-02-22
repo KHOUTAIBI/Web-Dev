@@ -1,0 +1,16 @@
+{
+  "name": "tpserver",
+  "version": "1.0.0",
+  "main": "server.mjs",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "querystring": "^0.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

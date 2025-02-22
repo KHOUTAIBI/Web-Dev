@@ -1,0 +1,3 @@
+curl -X PUT http://localhost:8000/ref/imaginary \
+-H "Content-Type: application/json" \
+-d '{"title":"Assessment of Fetal Exposure to 4G LTE Tablet in Realistic Scenarios: Effect of Position, Gestational Age and Frequency","journal":"IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology","year":"2017","month":"aug","keywords":"Fetus Dosimetry, Specific absorption rate, Radio frequency, Pregnancy, Electromagnetics, Antennas Author Keywords Radio frequency, Dosimetry, Polynomial chaos, Pregnancy","lang":"en","authors":["E. Chiaramello","M. Parazzini","S. Fiocchi","P. Ravazzani","j. wiart"],"category":"article","state":"published","dept":"comelec","group":"rfm"}'

@@ -1,0 +1,20 @@
+.div3 {
+    position: fixed;
+    left: 114px;
+    top: 114px;
+    width: 405px;
+    height: 405px;
+}
+
+#id1 { 
+    border-style: solid; 
+    padding: 11px;
+}
+img {
+    float: left; 
+    padding: 11px;
+}
+#id3 {
+    background-color: grey; 
+    padding: 10px;
+}

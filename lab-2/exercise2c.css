@@ -1,0 +1,15 @@
+#id1 { 
+    border: 1px;
+    border-style: solid; 
+    padding: 11px;
+}
+
+img {
+    float: left;
+    padding: 11px;
+}
+
+#id3 {
+    background-color: grey; 
+    margin: 10px;
+}

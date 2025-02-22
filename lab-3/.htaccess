@@ -1,0 +1,6 @@
+<IfModule mod_headers.c>
+Header set Cache-Control "no-cache, no-store, must-revalidate"
+Header set Pragma "no-cache"
+Header set Access-Control-Allow-Origin ' https://perso.telecom-paristech.fr/khoutaibi-23'
+Header set Expires 0
+</IfModule>

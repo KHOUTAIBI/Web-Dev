@@ -1,0 +1,24 @@
+.div3{
+    position: absolute;
+    left: 114px;
+    top: 114px;
+    width: 405px;
+    height: 405px;
+}
+
+.div3:hover{
+    color: tomato;
+}
+
+#id1 { 
+    border-style: solid; 
+    padding: 11px;
+}
+img { 
+    padding: 11px;
+    float: left;
+}
+#id3 {
+    background-color: grey; 
+    padding: 10px;
+}

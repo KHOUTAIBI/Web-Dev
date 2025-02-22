@@ -1,0 +1,28 @@
+{
+    "slides": [
+      {
+        "time": 0,
+        "url": "https://perso.telecom-paris.fr/dufourd/cours/outils/ue_outils_git_aide.htm"
+      },
+      {
+        "time": 2,
+        "url": "https://perso.telecom-paris.fr/dufourd/cours/inf203/js.html#/loops"
+      },
+      {
+        "time": 4,
+        "url": "https://perso.telecom-paris.fr/dufourd/cours/ssh/terminal.html"
+      },
+      {
+        "time": 6,
+        "url": "https://perso.telecom-paris.fr/dufourd/cours/inf203/svg.html#/svg-arcs"
+      },
+      {
+        "time": 8,
+        "url": "https://perso.telecom-paris.fr/dufourd/cours/inf203/internet.html#/ip-internet-protocol"
+      },
+      {
+        "time": 10,
+        "url": ""
+      }
+    ]
+}
